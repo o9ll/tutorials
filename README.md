@@ -1,2 +1,2 @@
-# nightcord-tutorials
+# tutorials
 
